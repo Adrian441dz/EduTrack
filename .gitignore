@@ -426,3 +426,9 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Frontend PWA
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+.DS_Store
